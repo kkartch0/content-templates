@@ -5,6 +5,11 @@
       "templateFriendlyName": "Testing Markdown article with standard metadata",
       "repos": [
         "*"
+      ],
+      "templateFileName": "..\\dynamics-article.md",
+      "templateFriendlyName": "Dynamic",
+      "repos": [
+        "*"
       ]
     }
   ]
