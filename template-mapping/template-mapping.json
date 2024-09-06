@@ -2,7 +2,7 @@
   "templates": [
     {
       "templateFileName": "..\\docs-article-metadata.md",
-      "templateFriendlyName": "Markdown article with standard metadata",
+      "templateFriendlyName": "Testing Markdown article with standard metadata",
       "repos": [
         "*"
       ]
